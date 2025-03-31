@@ -1,8 +1,11 @@
-"""
-App.py
+""" Student ID: 010742282
+Main.py
 WGUPS Delivery System.
 
 :author Taylor Ketterling 3/21/2025
+
+
+Part 2, updated app.py to become main.py , added SID
 """
 import csv
 from package_hash_table import PackageHashTable
